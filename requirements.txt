@@ -1,0 +1,8 @@
+django==3.2.16
+django-environ==0.9.0
+django-cors-headers==3.13.0     #
+djangorestframework==3.14.0      #nos permite crear api con django
+pillow==9.3.0           # para trabajar con image
+django-storages==1.13.1         #para poder guardar las image en AWS
+django-ckeditor==6.3.2      #para crear contenido en negrita, italika,etc
+psycopg2==2.9.5
